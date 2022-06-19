@@ -1,0 +1,42 @@
+id: I34F1F3CA
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T13:21:39.126136'
+last_modified: '2022-06-19T13:21:39.126154'
+parser: null
+source_metadata:
+  title: Hagiography of Ri khrod pa Blo gros brtan pa (1315/16-1358); Lamdre Lobshe,
+    vol. ka, title no. 17, from the chronological biographies of the Lamdre lineage
+    masters
+  author: dpal ldan tshul khrims/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-08-19); converted from external file, unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  - 'XML download privilege required: No'
+  - 'Downloaded: 0 times'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:rdzong sar khams bye'i lnga rig slob gling / sde dge rdzong sar/ (dzkj)
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/368
+  bases:
+    f5a6:
+      title: Hagiography of Ri khrod pa Blo gros brtan pa (1315/16-1358); Lamdre Lobshe,
+        vol. ka, title no. 17, from the chronological biographies of the Lamdre lineage
+        masters
+      order: 1
+      base_file: f5a6.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
